@@ -27,7 +27,7 @@ This repository contains a thread-safe, low-level design (LLD) for a digital vot
 
 ## 🛠️ Class Structure
 
-```mermaid
+```
 classDiagram
     class Voter {
         +String voterId
